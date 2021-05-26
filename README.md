@@ -1,3 +1,3 @@
 # semantic-release-testing
 
-1
+2
