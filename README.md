@@ -1,3 +1,5 @@
 # semantic-release-testing
 
-2
+3
+
+PATCH: something changed again
