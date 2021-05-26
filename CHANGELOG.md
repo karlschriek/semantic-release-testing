@@ -1,3 +1,10 @@
+# [2.0.0](https://github.com/karlschriek/semantic-release-testing/compare/v1.2.0...v2.0.0) (2021-05-26)
+
+
+### MAJOR
+
+* Test3 (#7) ([b8212b9](https://github.com/karlschriek/semantic-release-testing/commit/b8212b9cc05b931e9598671427c4375a5472e762)), closes [#7](https://github.com/karlschriek/semantic-release-testing/issues/7)
+
 # [1.2.0](https://github.com/karlschriek/semantic-release-testing/compare/v1.1.0...v1.2.0) (2021-05-26)
 
 
