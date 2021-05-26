@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/karlschriek/semantic-release-testing/compare/v1.1.0...v1.2.0) (2021-05-26)
+
+
+### MINOR
+
+* Test blabah (#4) ([8483ad6](https://github.com/karlschriek/semantic-release-testing/commit/8483ad689a8f89890b3310004700462584bd56d5)), closes [#4](https://github.com/karlschriek/semantic-release-testing/issues/4)
+
 # [1.1.0](https://github.com/karlschriek/semantic-release-testing/compare/v1.0.0...v1.1.0) (2021-05-26)
 
 
